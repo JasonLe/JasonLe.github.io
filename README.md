@@ -40,6 +40,6 @@
 
 ### MySQL相关
 
-* [MVCC相关-当前读-快照读](zh-cn/MySQL/MVCC相关-当前读-快照读.md)
-* [Innodb锁的思考](zh-cn/MySQL/Innodb锁的思考.md)
-* [索引](zh-cn/MySQL/索引.md)
+* [MVCC相关-当前读-快照读](zh-cn/数据库/MySQL/MVCC相关-当前读-快照读.md)
+* [Innodb锁的思考](zh-cn/数据库/MySQL/Innodb锁的思考.md)
+* [索引](zh-cn/数据库/MySQL/索引.md)
