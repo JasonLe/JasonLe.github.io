@@ -2,7 +2,7 @@
 
 > 这里就作为Java后端面试记录的存在
 > 
-## 目录
+# 目录
 
 - [Headline](#headline)
   - [目录](#目录)
@@ -13,7 +13,9 @@
   - [MySQL相关](#mysql相关)
 
 
-## Java后端面试
+# Java后端面试
+
+## Java
 
 ### Java相关
 
@@ -34,7 +36,9 @@
 * [ArrayList详解](zh-cn/Java/集合/ArrayList详解.md)  
 * [HashMap](zh-cn/Java/集合/HashMap.md)  
 
-## MySQL相关
+## 数据库
+
+### MySQL相关
 
 * [MVCC相关-当前读-快照读](zh-cn/MySQL/MVCC相关-当前读-快照读.md)
 * [Innodb锁的思考](zh-cn/MySQL/Innodb锁的思考.md)
