@@ -1,16 +1,3 @@
----
-title: MySQL——MVCC原理讲解&当前读、快照读
-subtitle: MySQL——MVCC原理讲解&当前读、快照读
-image: https://img-blog.csdnimg.cn/20210124225711901.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTM1MjM3NzU=
-alt: MySQL
-date: 2021-01-24 16:58:04
-
-caption:
-  title: MySQL——MVCC原理讲解&当前读、快照读
-  subtitle: MySQL——MVCC原理讲解&当前读、快照读
-  thumbnail: https://wimg.ruan8.com/uploadimg/image/20190402/20190402163328_31815.jpg
----
-
 # MVCC
 
 ## MVCC的作用

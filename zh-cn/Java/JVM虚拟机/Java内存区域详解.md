@@ -1,15 +1,3 @@
----
-title: JVM虚拟机之 Java内存区域详解
-subtitle: JVM虚拟机之 Java内存区域详解
-image: 
-alt: 
-date: 2021-01-25 21:24:00
-
-caption:
-  title: JVM虚拟机之 Java内存区域详解
-  subtitle: JVM虚拟机之 Java内存区域详解
-  thumbnail: https://wimg.ruan8.com/uploadimg/image/20190402/20190402163328_31815.jpg
----
 <!-- TOC -->
 
 - [Java 内存区域详解](#java-内存区域详解)

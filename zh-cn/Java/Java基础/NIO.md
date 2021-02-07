@@ -1,15 +1,3 @@
----
-title: Java NIO
-subtitle: Java NIO
-image: 
-alt: 
-date: 2021-01-20 19:43:00
-
-caption:
-  title: Java NIO
-  subtitle: Java NIO
-  thumbnail: https://wimg.ruan8.com/uploadimg/image/20190402/20190402163328_31815.jpg
----
 # 1.NIO概述
 
 在我们学习Java的NIO流之前，我们都要了解几个关键词

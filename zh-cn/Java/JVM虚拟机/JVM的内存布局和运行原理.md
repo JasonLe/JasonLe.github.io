@@ -1,15 +1,3 @@
----
-title: 说一下 JVM 的内存布局和运行原理？
-subtitle: 说一下 JVM 的内存布局和运行原理？
-image: 
-alt: 
-date: 2021-01-20 19:43:00
-
-caption:
-  title: 说一下 JVM 的内存布局和运行原理？
-  subtitle: 说一下 JVM 的内存布局和运行原理？
-  thumbnail: https://wimg.ruan8.com/uploadimg/image/20190402/20190402163328_31815.jpg
----
 # 说一下 JVM 的内存布局和运行原理？
 
 JVM（Java Virtual Machine，Java 虚拟机）顾名思义就是用来执行 Java 程序的“虚拟主机”，实际的工作是将编译的 class 代码（字节码）翻译成底层操作系统可以运行的机器码并且进行调用执行，这也是 Java 程序能够“一次编写，到处运行”的原因（因为它会根据特定的操作系统生成对应的操作指令）。JVM 的功能很强大，像 Java 对象的创建、使用和销毁，还有垃圾回收以及某些高级的性能优化，例如，热点代码检测等功能都是在 JVM 中进行的。因为 JVM 是 Java 程序能够运行的根本，因此掌握 JVM 也已经成了一个合格 Java 程序员必备的技能。

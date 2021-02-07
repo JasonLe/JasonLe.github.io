@@ -1,15 +1,3 @@
----
-title: Java基础——对HashMap的put和resize方法进行理解
-subtitle: Java基础
-image: 
-alt: 
-date: 2020-11-22 14:55:48
-
-caption:
-  title: HashMap的put和resize方法进行理解
-  subtitle: Java基础
-  thumbnail: https://wimg.ruan8.com/uploadimg/image/20190402/20190402163328_31815.jpg
----
 ## 前言
 >我们可以看到，在面试所有大厂Java岗位的时候，都有对了解HashMap原理的要求，
 >意识到透彻了解HashMap的底层原理迫在眉睫，所以决定再写一篇博文对HashMap进行记忆和分享。

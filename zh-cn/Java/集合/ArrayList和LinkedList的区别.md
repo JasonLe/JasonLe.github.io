@@ -1,15 +1,3 @@
----
-title: ArrayList和LinkedList的区别
-subtitle: ArrayList和LinkedList的区别
-image: 
-alt: 
-date: 2020-09-09 10:18:28
-
-caption:
-  title: ArrayList和LinkedList的区别
-  subtitle: ArrayList和LinkedList的区别
-  thumbnail: https://wimg.ruan8.com/uploadimg/image/20190402/20190402163328_31815.jpg
----
 # 写在前面
 >众所周知，在面试Java岗位的时候，面试官最常问的问题之一就是，你常用哪些Java集合框架啊？可以说一说ArrayList和LinkedList之间有什么区别吗？  
 

@@ -1,16 +1,3 @@
----
-title: ArrayList源码分析
-subtitle: ArrayList
-image: 
-alt: 
-date: 2021-01-20 19:18:45
-
-caption:
-  title: ArrayList源码分析
-  subtitle: ArrayList
-  thumbnail: https://wimg.ruan8.com/uploadimg/image/20190402/20190402163328_31815.jpg
----
-
 # 一、ArrayList  
   
 ## 1、ArrayList介绍

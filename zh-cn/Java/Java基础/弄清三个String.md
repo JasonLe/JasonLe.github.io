@@ -1,15 +1,3 @@
----
-title: Java中的String，StringBuilder，StringBuffer
-subtitle: Java中的String，StringBuilder，StringBuffer
-image: 
-alt: 
-date: 2020-08-12 19:26:00
-
-caption:
-  title: Java中的String，StringBuilder，StringBuffer
-  subtitle: Java中的String，StringBuilder，StringBuffer
-  thumbnail: https://wimg.ruan8.com/uploadimg/image/20190402/20190402163328_31815.jpg
----
 # Java中的String，StringBuilder，StringBuffer
 <br>
 

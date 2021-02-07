@@ -1,16 +1,3 @@
----
-title: 说一下 JVM 的内存布局和运行原理？
-subtitle: 说一下 JVM 的内存布局和运行原理？
-image: 
-alt: 
-date: 2021-01-25 21:27:08
-
-caption:
-  title: 说一下 JVM 的内存布局和运行原理？
-  subtitle: 说一下 JVM 的内存布局和运行原理？
-  thumbnail: https://wimg.ruan8.com/uploadimg/image/20190402/20190402163328_31815.jpg
----
-
 ## 一、 HotSpot 虚拟机对象探秘
 通过上面的介绍我们大概知道了虚拟机的内存情况，下面我们来详细的了解一下 HotSpot 虚拟机在 Java 堆中对象分配、布局和访问的全过程。
 
