@@ -4,42 +4,57 @@
 > 
 # 目录
 
-- [Headline](#headline)
-  - [目录](#目录)
-  - [Java后端面试](#java后端面试)
-    - [Java相关](#java相关)
-    - [JVM虚拟机相关](#jvm虚拟机相关)
-    - [Java集合容器相关](#java集合容器相关)
-  - [MySQL相关](#mysql相关)
+- [说点什么](#说点什么)
+- [目录](#目录)
+- [Java后端面试](#java后端面试)
+  - [Java](#java)
+    - [Java基础](#java基础)
+    - [JVM虚拟机](#jvm虚拟机)
+    - [Java集合容器](#java集合容器)
+    - [数据结构](#数据结构)
+  - [数据库](#数据库)
+    - [MySQL](#mysql)
+  - [设计模式](#设计模式)
+  - [操作系统](#操作系统)
 
 
 # Java后端面试
 
 ## Java
 
-### Java相关
+### Java基础
 
-* [红黑树和平衡二叉树有什么区别](zh-cn/Java/Java基础/红黑树和平衡二叉树有什么区别.md)
-* [你知道哪些设计模式？分别对应的应用场景有哪些？](zh-cn/Java/Java基础/你知道哪些设计模式？分别对应的应用场景有哪些？.md)
-* [弄清三个String](zh-cn/Java/Java基础/弄清三个String.md)
+* [Java中的String,StringBuilder,StringBuffer](zh-cn/Java/Java基础/Java中的String,StringBuilder,StringBuffer.md)
 
-### JVM虚拟机相关
+### JVM虚拟机
 
-* [HotSpot虚拟机对象探秘](zh-cn/Java/JVM虚拟机/HotSpot虚拟机对象探秘.md)
 * [Java内存区域详解](zh-cn/Java/JVM虚拟机/Java内存区域详解.md)
 * [JVM的内存布局和运行原理](zh-cn/Java/JVM虚拟机/JVM的内存布局和运行原理.md)
-* [虚拟内存](zh-cn/Java/JVM虚拟机/虚拟内存.md)
 
-### Java集合容器相关
+### Java集合容器
 
 * [ArrayList和LinkedList的区别](zh-cn/Java/集合/ArrayList和LinkedList的区别.md)
 * [ArrayList详解](zh-cn/Java/集合/ArrayList详解.md)  
-* [HashMap](zh-cn/Java/集合/HashMap.md)  
+* [HashMap](zh-cn/Java/集合/HashMap.md)
+* [HashMap的put和resize方法进行理解](zh-cn/Java/集合/HashMap的put和resize方法进行理解.md)
+* [HashMap扩容为什么是2倍形式](zh-cn/Java/集合/HashMap扩容为什么是2倍形式.md)
+
+### 数据结构
+
+* [红黑树](zh-cn/Java/数据结构与算法/红黑树.md)
+* [快速排序](zh-cn/Java/集合/快速排序.md)
 
 ## 数据库
 
-### MySQL相关
+### MySQL
 
 * [MVCC相关-当前读-快照读](zh-cn/数据库/MySQL/MVCC相关-当前读-快照读.md)
 * [Innodb锁的思考](zh-cn/数据库/MySQL/Innodb锁的思考.md)
-* [索引](zh-cn/数据库/MySQL/索引.md)
+
+## 设计模式
+
+* [单例模式的线程安全和不安全的实现方式](zh-cn/设计模式/单例模式的线程安全和不安全的实现方式.md)
+
+## 操作系统
+
+* [虚拟内存](zh-cn/操作系统/虚拟内存.md)
