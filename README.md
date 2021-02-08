@@ -34,8 +34,8 @@
 
 ### JVM虚拟机
 
+* [类加载机制](zh-cn/Java/JVM虚拟机/类加载机制.md)
 * [Java内存区域详解](zh-cn/Java/JVM虚拟机/Java内存区域详解.md)
-* [JVM的内存布局和运行原理](zh-cn/Java/JVM虚拟机/JVM的内存布局和运行原理.md)
 
 ### Java集合容器
 
