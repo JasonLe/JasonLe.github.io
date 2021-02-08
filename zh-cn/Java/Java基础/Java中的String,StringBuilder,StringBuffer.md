@@ -29,7 +29,8 @@
 ## 具体解答
 >#### 一、为什么说String对象不可变，StringBuffer和StringBuilder对象可变呢？
 这里我们就要介绍，其实String对象的底层实际上是一个char[ ]数组：
-![String的底层](https://img-blog.csdnimg.cn/20200813134902799.png)
+![String的底层](https://img-blog.csdnimg.cn/20200813134902799.png)  
+
 用final修饰的
 + 如果引用为基本数据类型，则该引用为常量，该值无法修改；
 + 如果引用为引用数据类型，比如对象、数组，则该对象、数组本身可以修改，但指向该对象或数组的地址的引用不能修改。
@@ -37,7 +38,7 @@
 综上所述，value指向不可以改变，但是value[ ]数组的值可以变，再加上private关键字对其进行封装达到value[ ]值也不可以改变的目的。
 ***
 而我们看一下StringBuffer和StringBuilder，它们分别都继承自AbstractStringBuilder抽象类，而AbstractStringBuilder抽象类中没有使用final定义，所以是可变的。
-![StringBuffer&StringBuilder底层](https://img-blog.csdnimg.cn/20200813141914715.png)
+![StringBuffer&StringBuilder底层](https://img-blog.csdnimg.cn/20200813141914715.png) 
 <br>
 >#### 二、为什么说StringBuilder是非线程安全的，String和StringBuffer都是线程安全的呢？
 
