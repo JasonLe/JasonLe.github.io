@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://api.mfstudio.cc/bing/" width="200" height="200"/>
+<img src="https://api.mfstudio.cc/bing/"/>
 </p>
 <h1 align="center">My Java</h1>
 
