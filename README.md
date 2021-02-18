@@ -1,5 +1,5 @@
 ![](../MyJava/_media/head.jpg)
-
+<img src="https://api.mfstudio.cc/bing/">
 # Java
 
 ## Java基础
